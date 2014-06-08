@@ -1,5 +1,5 @@
+this examples are based on chineses sensors 
 Arduino example software
-( based on chineses sensors )
 =============
 
 1. RFID_MC522 + RGB_LED + TOTP 
